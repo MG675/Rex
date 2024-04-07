@@ -4,9 +4,9 @@ A react web app to generate an m3u playlist for the channels subscribed on Tata 
 Converted to a single repo to make it a one click deploy on vercel/render as a lot of you non-technical people were facing difficulties while deploying.
 ## Deploy
 
-[![Deploy with Vercel](https://i.imgur.com/QDcsMEb.png)](https://vercel.com/new/project?template=https://github.com/mahipat99/tata-sky-m3u)
+[![Deploy with Vercel](https://i.imgur.com/QDcsMEb.png)](https://vercel.com/new/project?template=https://github.com/MG675/Rex)
 
-[![Deploy with Render](https://i.imgur.com/JkdoWmY.png)](https://render.com/deploy?repo=https://github.com/mahipat99/tata-sky-m3u)
+[![Deploy with Render](https://i.imgur.com/JkdoWmY.png)](https://render.com/deploy?repo=https://github.com/MG675/Rex)
 
 ## Run locally (You need a little bit of git and npm knowledge)
 1) Clone this repo.
